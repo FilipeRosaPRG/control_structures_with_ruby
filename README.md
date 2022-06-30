@@ -2,6 +2,12 @@
 
 I'm studying [Ruby](https://www.ruby-lang.org/en/) ​​and i did some small exercises to practice the language
 
+Run file (at the terminal)
+
+```bash
+  ruby file_name.rb
+```
+
 # References
 
 - [OneBitCode](https://onebitcode.com/)
